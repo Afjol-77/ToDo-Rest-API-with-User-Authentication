@@ -4,5 +4,3 @@
 * *Framework: Django REST Framework*
 * *Database: MongoDB*
 
-## Features: 
-* CRUD ToDo List with User Authentication
